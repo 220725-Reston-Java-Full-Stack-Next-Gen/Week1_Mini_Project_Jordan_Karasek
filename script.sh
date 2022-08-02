@@ -1,4 +1,4 @@
 #!/bin/sh
-javac MainDriver.java
-java MainDriver
+javac src/com/jordan/code/*.java
+java -cp ./src com.jordan.code.MainDriver
 
