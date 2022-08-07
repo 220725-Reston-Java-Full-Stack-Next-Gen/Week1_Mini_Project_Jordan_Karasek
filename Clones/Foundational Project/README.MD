@@ -3,6 +3,9 @@ Executive Summary: This is an expense reimbursement system that will allow emplo
 
 User Stories: 
 As an employee, I want to create a username and password, so that I can create a new account.
+As an employee, I want to submit reimbursement requests to my manager, so I can get paid.
+As a manager, I want to view employee reimbursement submissions, that I can approve or deny.
+As a manager, I want to have administrative access, to alter users and submissions after creation.
 
 MVP- Employees must be able to log into the application using a username and password input, register a new account, submit reimbursement tickets with amount and description, and finally view previous submissions by filtering a Pending, Approved, or Denied status.
 Stretch Statement- Employees might include reimbursement types like food or travel. They could add images of reciepts to requests uploaded to SQL or cloud storage. Might include more user information like name and address. Might allow more editing control of user account plus ability to add profile pictures.
